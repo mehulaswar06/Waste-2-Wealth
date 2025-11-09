@@ -20,7 +20,7 @@
 
 # Overview
 _____________________________________________________________________________________________________________________________________________
-At Waste2Wealth, we strongly believe in the power of individuals to make a positive impact on their environment. Our mission is to provide a sustainable solution that inspires people to take responsibility for keeping their surroundings clean and hygienic.
+At Waste2Wealth, we strongly believe in the power of individuals to make a positive impact on the environment. Our mission is to provide a sustainable solution that inspires people to take responsibility for keeping their surroundings clean and hygienic.
 
 With the increasing concern about littering and waste disposal in public areas, we recognized the need for an innovative approach to tackle this issue. Waste2Wealth is our solution to promote responsible waste management and raise awareness about the importance of maintaining clean communities.
 
